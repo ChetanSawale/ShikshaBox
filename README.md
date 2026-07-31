@@ -136,18 +136,29 @@ ShikshaBox/
 
 ---
 
-# 📷 Demo
+# 📷 Screenshots
 
-### Initial Screen
+## 🏠 Home Screen
 
+The welcome screen displayed when ShikshaBox starts.
 
-### Listening Mode
+![Home Screen](images/Home.png)
 
+---
 
-### Answer Generation
-https://github.com/ChetanSawale/ShikshaBox/blob/main/images/Answering.png
+## 🎤 Listening Mode
 
+The assistant listens to the student's question through the connected USB microphone.
 
+![Listening Mode](images/Listening.png)
+
+---
+
+## 🤖 Answer Generation
+
+After processing the question, ShikshaBox generates a curriculum-based response and displays it on the screen while reading it aloud.
+
+![Answer Generation](images/Answering.png)
 
 ---
 
