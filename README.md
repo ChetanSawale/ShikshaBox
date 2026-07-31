@@ -141,15 +141,13 @@ ShikshaBox/
 ### Initial Screen
 
 
-(Add screenshot)
-
 ### Listening Mode
 
-(Add screenshot)
 
 ### Answer Generation
+https://github.com/ChetanSawale/ShikshaBox/blob/main/images/Answering.png
 
-(Add screenshot)
+
 
 ---
 
